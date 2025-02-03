@@ -7,3 +7,10 @@ Telegram bot for download tiktok or youtube videos
 * pip install mongodb
 * Get token from https://t.me/BotFather
 * Enjoy
+
+### This bot have:
+
+- Download video: TikTok and Instagram Reels
+- Anti Spam
+- Stast
+- off/on Advertimes
